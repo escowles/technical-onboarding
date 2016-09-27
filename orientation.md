@@ -4,11 +4,17 @@
 
 ![Architecture Diagram](https://wiki.duraspace.org/download/attachments/22022608/hydra_9_architecture_2016.png?version=1&modificationDate=1467992759221&api=v2)
 
-Hydra began its life in 2008 as a framework: a shared set of patterns and tools, primarily in the form of Ruby code, for building repository applications atop the Fedora Commons Repository and the Apache Solr index.
+Hydra began its life in 2008 as a framework: a shared set of patterns and tools, primarily in the
+form of Ruby code, for building repository applications atop the [Fedora Commons Repository](http://fedorarepository.org/)
+and the [Apache Solr](http://lucene.apache.org/solr/) index.
 
 ## Hydra is a solution
 
-With the emergence of [Avalon](http://avalonmediasystem.org), [Sufia](http://sufia.io/), [CurationConcerns](http://github.com/projecthydra/curation_concerns), and [Hydra-in-a-Box](http://hydrainabox.projecthydra.org/), we have seen adopters come to Hydra not just for a framework to develop their own repository applications but for solutions that get them 80% or 90% or 95% of the way towards meeting their repository needs.
+With the emergence of [Avalon](http://avalonmediasystem.org), [Sufia](http://sufia.io/),
+[CurationConcerns](http://github.com/projecthydra/curation_concerns), and
+[Hydra-in-a-Box](http://hydrainabox.projecthydra.org/), we have seen adopters come to Hydra not
+just for a framework to develop their own repository applications but for solutions that get them
+80% or 90% or 95% of the way towards meeting their repository needs.
 
 ## Hydra is a community
 

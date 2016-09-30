@@ -20,3 +20,9 @@ Many developers in the Hydra community practice [test-driven development](https:
 ## Style guidelines
 
 The Hydra community uses a somewhat modified version of the default Ruby style conventions provided by the Rubocop tool. If your pull request contains style violations, continuous integration builds will fail quickly and your work will be in an unmergeable state. Fortunately, it's very easy (and fast) to check this in your development environment. Run the `rubocop` command to see if your changes pass muster. If they do not, Rubocop also supports an auto-fix flag for some violations. To do this, run `rubocop -a` -- but we recommend committing your changes first, because though this seldom happens, Rubocop can sometimes "fix" your code into a state that causes tests to fail. Don't worry about having to commit earlier, or more, than you intended; you can always squash your commits later.
+
+## Additional resources
+
+The [Hydra Camp Resources List](https://docs.google.com/document/d/1wnpJBS-Q9Yswp7r2fGfzvOzjjz0C971INU3pDfgZd8k/edit#heading=h.avateqba3goc)
+has links to lots of good resources on general Ruby information, IDEs, data models, example Hydra
+heads, etc.

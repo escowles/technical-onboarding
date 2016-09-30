@@ -2,8 +2,8 @@
 
 ## Submitting an Issue
 
-Each Github project has an Issues tab, and you can add an issue by clicking the New issue button.
-Hydra uses Github issues to track bugs that should be fixed and new features that should be added.
+Each GitHub project has an Issues tab, and you can add an issue by clicking the New issue button.
+Hydra uses GitHub issues to track bugs that should be fixed and new features that should be added.
 They can also be used for more general discussion, such as asking a question.
 
 ## What Makes a Good Issue?
@@ -25,7 +25,7 @@ They can also be used for more general discussion, such as asking a question.
 
 ## Waffle
 
-Most Hydra community sprints use Waffle.io to manage Github issues and organize their work, e.g.:
+Most Hydra community sprints use Waffle.io to manage GitHub issues and organize their work, e.g.:
 
 * https://waffle.io/projecthydra/curation_concerns
 * https://waffle.io/projecthydra/sufia

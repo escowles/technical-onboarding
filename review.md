@@ -1,3 +1,5 @@
+# Code review
+
 ## When Submitting a Pull Request
 
 When you have code ready to be reviewed, and it meets the [code guidelines](code.md), open a pull
@@ -13,7 +15,7 @@ To help make the review go smoothly, here are some general guidelines:
     to refer back to the original ticket and automatically close it when the PR is merged.
   * If you've discussed the issue, or just want to alert someone to your PR, tag them by including
     their @username.
-  * Link to relevant resources, such as Wiki pages, mailing list threads, specifications, or other 
+  * Link to relevant resources, such as Wiki pages, mailing list threads, specifications, or other
     tickets.  This makes it easier to understand the full context of your PR.
 * Please be patient.  Your PR may not be reviewed right away, since the people doing code review
   are often busy, and may be traveling, in a different time zone, or otherwise not available to
@@ -23,7 +25,7 @@ To help make the review go smoothly, here are some general guidelines:
 * Respond to code review comments, with discussion where it's appropriate or by pushing additional
   commits to the branch.  They will be added to the same PR automatically.
 * If another PR is merged and conflicts with your changes, you may need to rebase your PR.
-  * See [Github's rebasing documentation](https://help.github.com/articles/about-git-rebase/) and
+  * See [GitHub's rebasing documentation](https://help.github.com/articles/about-git-rebase/) and
     [One Commit Per Pull Request](http://ndlib.github.io/practices/one-commit-per-pull-request/)
     for more information on rebasing.
 

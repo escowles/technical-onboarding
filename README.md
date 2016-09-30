@@ -3,8 +3,8 @@
 ## Contents
 
 1. [Orientation](orientation.md): What is Hydra?
-1. [Communication](communication.md): How and where do we connect?
 1. [Formalities](formalities.md): What are the formal prerequisites to getting started as a Hydra developer?
+1. [Communication](communication.md): How and where do we connect?
 1. [Issues](issues.md): How we use GitHub issues to track work, and what makes a good issue?
 1. [Code Guidelines](code.md): What are our expectations of code contributions?
 1. [Code Review](review.md): How to submit and review pull requests?

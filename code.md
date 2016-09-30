@@ -1,14 +1,5 @@
 # Code Guidelines
 
-See https://github.com/projecthydra/hydra/blob/master/CONTRIBUTING.md#making-changes
-and following.
-
-* Github workflow, forking and branching
-* Organizing your code
-* Testing and test coverage
-* Style guidelines
-* Creating a pull request
-
 ## GitHub workflow, forking and branching
 
 To start working on a Hydra codebase, you may wish to fork it to your own organization and then clone it locally. This will allow you to push your work up for review and for pull requests. The advantage of forking existing codebases is that you can do so without asking anyone and get started quickly. The disadvantage is that there's a risk of writing code that only lives in your fork, which -- if you wind up running this in production, or pointing other production code at your fork -- is a surefire way to make your work difficult to upgrade. You will probably want to request access to push your work directly to Hydra codebases (see [formalities](formalities.md)).

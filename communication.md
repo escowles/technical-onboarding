@@ -1,5 +1,7 @@
 # Communication
 
+There are many ways to connect with fellow Hydra community members (you're in the community now, too; welcome!). The choices below may seem bewildering. We provide all the options below because we acknowledge that we all have different communication styles.
+
 This page details the communication channels used by developers in the Hydra community.  For more
 information on broader community communication, please see the Hydra wiki
 [Get in touch!](https://wiki.duraspace.org/pages/viewpage.action?pageId=43910187) page.

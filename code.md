@@ -44,6 +44,8 @@ When you are satisfied that the code you have written adequately addresses the i
 
 Next, you'll want to check that your branch is up to date with its parent branch (likely to be `master`); if you kept your PR small and targeted, you will find that this isn't a difficult process. Make sure your code conforms to style guidelines and your test suite is green, and then push your branch and create a pull request.
 
+> Note: you might be worried about how your code will be received, or the kind of criticism you might get when your code is reviewed.  It can be a big change in how you are used to working, particularly if you haven't contributed to open source projects before.  We do our best to be welcoming and supportive, but feel free to include a comment like "This is my first Hydra PR" or "This is a first pass at fixing this, let me know if I'm on the right track" to encourage constructive feedback.
+
 ## Additional resources
 
 The [Hydra Camp Resources List](https://docs.google.com/document/d/1wnpJBS-Q9Yswp7r2fGfzvOzjjz0C971INU3pDfgZd8k/edit#heading=h.avateqba3goc)

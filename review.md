@@ -41,6 +41,17 @@ use:
 * Hound, to be consistent w/ Javascript and CSS style conventions
 * CodeClimate, to flag obvious code smells early for remediation
 
+### The Tools Are Not Infallible
+
+It's good to keep in mind that the tools above sometimes fail even though the code is fine.  So use the tools
+to help make review easier, but be understanding of their limitations:
+
+* Sometimes Travis builds fail, and simply restarting the build will fix it.  In other cases, there might be
+  unrelated upgrades or other changes that should be addressed outside of the current PR.
+* Rubocop rules sometimes lead to unreasonable requirements, and it sometimes makes sense to add an exception
+  or disable a rule.
+* Refactoring or making code more compact can result in a tiny reduction in test coverage percentage.
+
 When reviewing a pull request, please take the time to review the changes and get a sense of what
 is being changed.
 
